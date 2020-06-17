@@ -1,0 +1,52 @@
+.body {
+	margin: 0px;
+}
+.head {
+	width: 100%;
+}
+.bar {
+	width: 35px;
+	height: 5px;
+	background-color: white;
+	margin: 6px 0;
+}
+.about-text {
+	margin-left: 15%;
+	margin-right: 15%;
+	font-size: 24px;
+}
+.know-text {
+	text-align: center;
+	font-size: 24px;
+}
+.know-pic {
+	margin-left: 15%;
+	margin-right: 15%;
+}
+.know-pic-1 {
+	margin-left: 35%;
+	margin-right: 15%;
+}
+.know-what {
+	display:inline
+}
+.know-how {
+	display:inline
+}
+.know-link {
+	text-align: center;
+	font-size: 24px;
+	width: 50%;
+	float: left;
+}
+.pro {
+	margin-left: 15%;
+	margin-right: 15%;
+	font-size: 18px;
+}
+.us-text {
+	padding-bottom: 20px;
+	padding-top: 20px;
+	text-align: center;
+	font-size: 24px;
+}
